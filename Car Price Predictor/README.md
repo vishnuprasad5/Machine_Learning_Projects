@@ -45,18 +45,18 @@ Car Price Predictor/
 
 ## Usage
 ### Data Preparation and Model Training:
-Explore and preprocess the car dataset using the ‘car_price_prediction.ipynb’ Jupyter Notebook located in the ‘notebook/’ directory.
+1. Explore and preprocess the car dataset using the ‘car_price_prediction.ipynb’ Jupyter Notebook located in the ‘notebook/’ directory.
 
-Train the machine learning model to predict car prices using the same ‘car_price_prediction.ipynb‘ notebook.
+2. Train the machine learning model to predict car prices using the same ‘car_price_prediction.ipynb‘ notebook.
 
 ### Web Application (Powered by Flask):
-Launch the web application for car price prediction by running the web_app.py script in the app/ directory.
+1. Launch the web application for car price prediction by running the web_app.py script in the app/ directory.
 ### Input Features:
-Users can input various features and specifications of a car, such as make, model, year, mileage, and more.
+* Users can input various features and specifications of a car, such as make, model, year, mileage, and more.
 ### Price Prediction:
-After entering the car details, the Flask-based web application will use the trained model to estimate the car's price and display it to the user.
+* After entering the car details, the Flask-based web application will use the trained model to estimate the car's price and display it to the user.
 ## Credits
-Image: The beautiful car image used in this project is courtesy of Tabea Schimpf.
-Image Link: Unsplash - Tabea Schimpf's Portfolio 
+* Image: The beautiful car image used in this project is courtesy of Tabea Schimpf.
+* Image Link: Unsplash - Tabea Schimpf's Portfolio 
 ## Acknowledgments
 Special thanks to the open-source community for the Python libraries used in this project, and to Flask for powering the web application.
