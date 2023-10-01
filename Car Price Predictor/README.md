@@ -41,6 +41,7 @@ Car Price Predictor/
 │   ├── image.png                   # Image of the web page interface
 │   ├── WebPage-video.mp4           # Video showing how the web page works
 ├── README.md                        # Project README file
+```
 
 ## Usage
 ### Data Preparation and Model Training:
