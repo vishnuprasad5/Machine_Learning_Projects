@@ -52,7 +52,7 @@ Car Price Predictor/
 ### Web Application (Powered by Flask):
 1. Launch the web application for car price prediction by running the web_app.py script in the app/ directory.
 ### Input Features:
-* Users can input various features and specifications of a car, such as make, model, year, mileage, and more.
+* Users can input various features and specifications of a car, such as manufacturer, model, year, mileage, and more.
 ### Price Prediction:
 * After entering the car details, the Flask-based web application will use the trained model to estimate the car's price and display it to the user.
 ## Credits
