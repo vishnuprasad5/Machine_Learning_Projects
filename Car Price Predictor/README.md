@@ -57,6 +57,6 @@ Car Price Predictor/
 * After entering the car details, the Flask-based web application will use the trained model to estimate the car's price and display it to the user.
 ## Credits
 * Image: The beautiful car image used in this project is courtesy of Tabea Schimpf.
-* Image Link: Unsplash - Tabea Schimpf's Portfolio 
+* Image Link: [Unsplash - Tabea Schimpf's Portfolio](https://unsplash.com/@tabeaschimpf)
 ## Acknowledgments
 Special thanks to the open-source community for the Python libraries used in this project, and to Flask for powering the web application.
