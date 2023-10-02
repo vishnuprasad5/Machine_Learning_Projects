@@ -31,15 +31,15 @@ Car Price Predictor/
 ├── app/
 │   ├── static/
 │   │   ├── css/
-│   │   │   ├── style.css           # CSS file for styling the web page
+│   │   │   ├── style.css            # CSS file for styling the web page
 │   ├── template/
-│   │   ├── index.html              # HTML template for the web page
-│   ├── web_app.py                  # Python script for the web application (Flask)
+│   │   ├── index.html               # HTML template for the web page
+│   ├── web_app.py                   # Python script for the web application (Flask)
 ├── notebook/
 │   ├── car_price_prediction.ipynb   # Jupyter Notebook for data exploration & model training
 ├── Web Page/
-│   ├── image.png                   # Image of the web page interface
-│   ├── WebPage-video.mp4           # Video showing how the web page works
+│   ├── image.png                    # Image of the web page interface
+│   ├── WebPage-video.mp4            # Video showing how the web page works
 ├── README.md                        # Project README file
 ```
 
