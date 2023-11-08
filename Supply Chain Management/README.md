@@ -23,5 +23,5 @@ These goals aim to help the company address supply-demand imbalances, reduce inv
 *	Model Development: We develop and train machine learning models using various algorithms to predict the optimum weight of product shipments from warehouses.
 *	Evaluation: Model performance is evaluated using the test dataset to determine the accuracy and effectiveness of the predictive model.
 *	Visualization: Throughout the project, we employ data visualization to illustrate findings, trends, and results in a clear and interpretable manner.
-*	
+  
 By leveraging data-driven insights and machine learning, this project aims to assist the company in making informed decisions to streamline its supply chain and reduce losses associated with inventory costs.
